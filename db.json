@@ -1,0 +1,62 @@
+{
+  "Movies": [
+    {
+      "id": 1,
+      "img": "./pictures/you.jpg",
+      "title": "YOU",
+      "Desc": "This is the netflix web series",
+      "click": "Click Here ",
+      "Trailerlink": "https://www.netflix.com/in/title/80211991"
+    },
+    {
+      "img": "./pictures/sacred-games.jpg",
+      "Desc": "This is the netflix web series",
+      "title": "SACRED GAMES",
+      "Trailerlink": "https://www.netflix.com/in/title/80115328",
+      "click": "Click Here",
+      "id": 2
+    },
+    {
+      "img": "./pictures/she.png",
+      "Desc": "This is the netflix web series",
+      "title": "She",
+      "Trailerlink": "https://www.netflix.com/in/title/81183494",
+      "click": "Click Here",
+      "id": 3
+    },
+    {
+      "img": "./pictures/narcos.jpg",
+      "Trailerlink": "https://www.netflix.com/in/title/80025172",
+      "title": "Narcose",
+      "Desc": "This is the netflix web series",
+      "click": "Click Here",
+      "id": 4
+    },
+    {
+      "img": "./pictures/money-heist.jpg",
+      "title": "Money-Heist",
+      "Desc": "This is the Netflix web series",
+      "click": "Click Here",
+      "Trailerlink": "https://www.netflix.com/in/title/80192098",
+      "id": 5
+    },
+    {
+
+        "id": 6,
+        "img": "./pictures/images.jfif",
+        "title": "Flight",
+        "Desc": "This is the bollywood movies Flight 2021",
+        "click": "Click Here",
+        "Trailerlink": "https://www.imdb.com/title/tt14071150/"
+    },
+    {
+        "id": 7,
+        "img": "./pictures/images (1).jfif",
+        "title": "Dhaakad",
+        "Desc": "This is the bollywood movies Dhakkad 2022  ",
+        "click": "Click Here",
+        "Trailerlink": "https://www.imdb.com/title/tt10598156/"
+    }
+      
+  ]
+}
